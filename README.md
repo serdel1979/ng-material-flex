@@ -1,6 +1,7 @@
 # NgMat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+Se agregó Material y flex, más un sidebar que navega a 3 paginas.
 
 ## Development server
 
